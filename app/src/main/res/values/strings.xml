@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab7v2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="todo">TODO</string>
+    <string name="last_know_loc_msg">Last know localisation</string>
+    <string name="todo2">TODO</string>
+    <string name="clear_memory">Clear memory</string>
+    <string name="information">Information</string>
+</resources>
